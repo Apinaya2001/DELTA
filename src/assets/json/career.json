@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Intern Web Development Opportunity at THAMIZHI",
+    "introduction": "Welcome to the THAMIZHI intern program! We're excited to offer an internship opportunity for aspiring web developers who are eager to gain hands-on experience and grow their skills in a professional environment. As a Web Development Intern, you will work closely with our experienced development team, contributing to real projects and learning the ins and outs of web development.",
+    "position": {
+      "title": "Intern Web Developer",
+      "description": "As an Intern Web Developer at THAMIZHI, you will have the chance to learn and work on various aspects of web development. You will assist in developing, testing, and maintaining websites and web applications. This internship is an excellent opportunity to gain practical experience, enhance your skills, and understand the workflow of professional web development."
+    },
+    "responsibilities": [
+      "Assist in developing front-end web applications using HTML, CSS, and JavaScript.",
+      "Support the team in building responsive and mobile-friendly websites.",
+      "Help in maintaining and updating existing websites and applications.",
+      "Collaborate with designers and back-end developers to implement new features.",
+      "Participate in code reviews and learn best practices in coding and development.",
+      "Test websites and applications for bugs and usability issues.",
+      "Learn about and apply web performance optimization techniques.",
+      "Contribute to the documentation of processes and code."
+    ],
+    "skillsAndQualifications": [
+      "Basic Knowledge of Web Technologies: Familiarity with HTML, CSS, and JavaScript. Understanding of web standards and best practices.",
+      "Eagerness to Learn: Willingness to learn new tools and technologies. Openness to feedback and a proactive approach to self-improvement.",
+      "Problem-Solving Skills: Ability to identify problems and suggest practical solutions. An analytical mindset is beneficial for debugging and improving code.",
+      "Team Collaboration: Ability to work effectively in a team environment. Good communication skills and the ability to collaborate with team members.",
+      "Attention to Detail: Careful attention to detail, ensuring high-quality and accurate code and designs.",
+      "Familiarity with Version Control: Basic understanding of version control systems like Git. Experience with GitHub or GitLab is a plus.",
+      "Exposure to Frameworks: Knowledge of popular frameworks like Angular, React, or Vue.js is a bonus but not mandatory.",
+      "Enthusiasm for Web Development: A passion for web development and a desire to build a career in this field."
+    ],
+    "learningOpportunities": [
+      "Hands-on Experience: Work on real projects and tasks that provide valuable practical experience.",
+      "Mentorship: Learn from experienced developers who will guide you and provide feedback on your work.",
+      "Skill Development: Enhance your technical skills, particularly in front-end development, through hands-on practice and learning.",
+      "Professional Growth: Understand the workflow and processes of a professional web development environment. Gain insights into industry best practices and standards.",
+      "Career Insights: Learn about various career paths in web development and gain experience that will be valuable for future job opportunities."
+    ],
+    "applicationProcess": {
+      "instructions": "To apply for the Web Development Internship at THAMIZHI, please submit your resume and a brief cover letter outlining your interest in web development and why you would be a good fit for our team. If you have a portfolio or examples of previous work, please include them in your application.",
+      "callToAction": "Join us at THAMIZHI and kickstart your career in web development with hands-on experience and professional guidance. We look forward to helping you grow and succeed in the exciting field of web development!"
+    }
+
+  },
+  {
+    "id": 2,
+    "title": "Mobile Development Software Engineer Opportunity at THAMIZHI",
+    "introduction": "Welcome to THAMIZHI! We're excited to offer a position for an experienced Mobile Development Software Engineer. We are looking for a talented individual who is passionate about mobile technologies and eager to contribute to innovative projects. As a Mobile Development Software Engineer at THAMIZHI, you will play a key role in designing, developing, and maintaining cutting-edge mobile applications for our clients.",
+    "position": {
+      "title": "Mobile Development Software Engineer",
+      "description": "As a Mobile Development Software Engineer at THAMIZHI, you will be responsible for developing high-quality mobile applications for both Android and iOS platforms. You will collaborate with cross-functional teams to deliver exceptional user experiences and ensure that our mobile solutions meet the highest standards of performance, reliability, and security."
+    },
+    "responsibilities": [
+      "Design and develop mobile applications using Swift for iOS and Kotlin/Java for Android.",
+      "Implement cross-platform solutions using frameworks like Flutter and React Native.",
+      "Collaborate with UI/UX designers to create intuitive and engaging user interfaces.",
+      "Work closely with back-end developers to integrate APIs and ensure seamless data flow.",
+      "Perform code reviews and ensure adherence to best practices in mobile development.",
+      "Optimize mobile applications for performance and scalability.",
+      "Troubleshoot and debug issues, and provide timely solutions to ensure application stability.",
+      "Stay updated with the latest trends and technologies in mobile development and apply them to improve our products."
+    ],
+    "skillsAndQualifications": [
+      "Proven experience in mobile development with a strong portfolio of published applications.",
+      "Proficiency in Swift for iOS development and Kotlin/Java for Android development.",
+      "Experience with cross-platform frameworks such as Flutter or React Native.",
+      "Solid understanding of mobile architecture and design patterns.",
+      "Knowledge of RESTful APIs and experience with back-end integration.",
+      "Strong problem-solving skills and ability to debug and optimize code effectively.",
+      "Familiarity with version control systems like Git and experience with continuous integration and deployment.",
+      "Excellent communication skills and ability to work effectively in a collaborative team environment.",
+      "A passion for mobile technology and a keen interest in keeping up with industry advancements."
+    ],
+    "learningOpportunities": [
+      "Work on a variety of exciting mobile projects and contribute to innovative solutions.",
+      "Gain experience with the latest tools and technologies in mobile development.",
+      "Collaborate with a team of experienced developers, designers, and product managers.",
+      "Enhance your skills in mobile architecture, design patterns, and performance optimization.",
+      "Expand your knowledge of cross-platform development and back-end integration.",
+      "Participate in professional development opportunities and stay updated with industry trends."
+    ],
+    "applicationProcess": {
+      "instructions": "To apply for the Mobile Development Software Engineer position at THAMIZHI, please submit your resume and a cover letter detailing your experience in mobile development and why you are interested in joining our team. If you have a portfolio or examples of previous work, please include them in your application.",
+      "callToAction": "Join THAMIZHI and take your career in mobile development to the next level with challenging projects and a supportive team. We look forward to welcoming a passionate and skilled engineer to our team!"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Server-Side Engineer Opportunity at THAMIZHI",
+    "introduction": "Welcome to THAMIZHI! We're thrilled to offer a position for a skilled Server-Side Engineer. We are seeking a motivated individual who is passionate about building robust and scalable server-side applications. As a Server-Side Engineer at THAMIZHI, you will play a crucial role in developing the backend systems that power our applications and services.",
+    "position": {
+      "title": "Server-Side Engineer",
+      "description": "As a Server-Side Engineer at THAMIZHI, you will be responsible for designing, developing, and maintaining server-side logic, APIs, and databases. You will work closely with front-end developers and other team members to ensure seamless integration and high performance of our applications."
+    },
+    "responsibilities": [
+      "Design, develop, and maintain server-side applications using Node.js, Python, Ruby on Rails, or Java.",
+      "Create and manage RESTful and GraphQL APIs to support front-end applications.",
+      "Develop and maintain databases, ensuring efficient data storage, retrieval, and management.",
+      "Implement security measures to protect data and ensure compliance with industry standards.",
+      "Optimize server-side code for performance and scalability.",
+      "Collaborate with front-end developers to integrate user-facing elements with server-side logic.",
+      "Write clean, maintainable, and well-documented code.",
+      "Troubleshoot and debug server-side issues, providing timely solutions.",
+      "Stay updated with the latest developments in server-side technologies and best practices."
+    ],
+    "skillsAndQualifications": [
+      "Proven experience in server-side development with a solid understanding of server-side technologies and frameworks.",
+      "Proficiency in one or more programming languages such as Node.js, Python, Ruby on Rails, or Java.",
+      "Experience with database management systems like MySQL, PostgreSQL, MongoDB, or DynamoDB.",
+      "Knowledge of API development and integration, including RESTful and GraphQL APIs.",
+      "Understanding of server architecture, scalability, and performance optimization.",
+      "Familiarity with version control systems such as Git and continuous integration/continuous deployment (CI/CD) pipelines.",
+      "Strong problem-solving skills and ability to troubleshoot and debug complex server-side issues.",
+      "Excellent communication skills and ability to collaborate effectively with cross-functional teams.",
+      "A passion for technology and a commitment to continuous learning and improvement."
+    ],
+    "learningOpportunities": [
+      "Work on challenging server-side projects and develop solutions that drive our applications.",
+      "Gain experience with the latest server-side technologies and frameworks.",
+      "Collaborate with a team of experienced developers and engineers.",
+      "Enhance your skills in API development, database management, and server architecture.",
+      "Expand your knowledge of security best practices and performance optimization.",
+      "Participate in ongoing professional development and stay current with industry trends."
+    ],
+    "applicationProcess": {
+      "instructions": "To apply for the Server-Side Engineer position at THAMIZHI, please submit your resume and a cover letter detailing your experience with server-side development and why you are interested in joining our team. If you have a portfolio or examples of previous work, please include them in your application.",
+      "callToAction": "Join THAMIZHI and take your server-side development skills to the next level with exciting projects and a collaborative team. We look forward to welcoming a talented and dedicated engineer to our team!"
+    }
+  }
+]

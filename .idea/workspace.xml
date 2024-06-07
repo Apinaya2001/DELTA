@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a5f993b-aee2-46d0-a3cf-39a96cd42d1f" name="Changes" comment="" />
+    <list default="true" id="5a5f993b-aee2-46d0-a3cf-39a96cd42d1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.0.2/DeltaWhiz/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/18.0.2/DeltaWhiz/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.0.2/DeltaWhiz/angular-compiler.db-lock" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/18.0.2/DeltaWhiz/angular-compiler.db-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assest/img/l.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/career/career.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/career/career.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/career/career.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/career/career.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/layout/layout.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/layout/layout.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/layout/layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/layout/layout.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/layout/layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/layout/layout.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/service/service.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/service/service.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/team/team.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/team/team.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/team/team.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pages/team/team.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +48,15 @@
     &quot;assignee&quot;: &quot;Apinaya2001&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Apinaya2001/DELTA.git&quot;,
-    &quot;accountId&quot;: &quot;56b0293a-378d-47d4-a3cd-ec58698180a2&quot;
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Apinaya2001/DELTA.git",
+    "accountId": "ec03d0b6-6825-4c02-b070-5773b5d49330"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -39,12 +71,14 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/asus/Documents/deltawhiz/DELTA&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/guna/Documents/thamizhi/DELTA/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -66,7 +100,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
       </set>
     </attachedChunks>
   </component>
@@ -80,6 +114,7 @@
       <updated>1717295627071</updated>
       <workItem from="1717295628229" duration="7698000" />
       <workItem from="1717477273848" duration="676000" />
+      <workItem from="1717742870834" duration="19000" />
     </task>
     <servers />
   </component>
