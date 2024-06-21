@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {defineCustomElements} from "tjguna/loader";
 
 @Component({
   selector: 'app-root',
@@ -10,8 +9,7 @@ import {defineCustomElements} from "tjguna/loader";
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'DeltaWhiz';
+  title = 'Thamizhi';
   constructor() {
-    defineCustomElements(window);
   }
 }
