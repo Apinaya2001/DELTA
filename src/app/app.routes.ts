@@ -6,6 +6,8 @@ import {BlogComponent} from "./pages/blog/blog.component";
 import {CareerComponent} from "./pages/career/career.component";
 import {ServiceComponent} from "./pages/service/service.component";
 import {TestimonialsComponent} from "./pages/testimonials/testimonials.component";
+import {PrivacyPolicyComponent} from "./pages/privacy-policy/privacy-policy.component";
+import {TermsComponent} from "./pages/terms/terms.component";
 
 export const routes: Routes = [
   {
@@ -16,6 +18,8 @@ export const routes: Routes = [
       {path:"career",component:CareerComponent},
       {path:"service",component:ServiceComponent},
       {path:"testimonials",component:TestimonialsComponent},
+      {path:"privacy-policy",component:PrivacyPolicyComponent },
+      {path:"terms",component:TermsComponent },
       {path:"**",redirectTo:""}
     ]
   }
