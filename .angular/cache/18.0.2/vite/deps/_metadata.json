@@ -1,70 +1,52 @@
 {
-  "hash": "091cf7c4",
-  "configHash": "208d8809",
+  "hash": "618bd92a",
+  "configHash": "e64cc9b2",
   "lockfileHash": "6b20262d",
-  "browserHash": "399336a5",
+  "browserHash": "98f97d42",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "6a91d185",
+      "fileHash": "53e25f26",
       "needsInterop": false
     },
     "@angular/common/http": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
-      "fileHash": "db6adb9c",
+      "fileHash": "5833208a",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "a9c2feea",
+      "fileHash": "6e58b580",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "2cde6592",
+      "fileHash": "bdc9ea87",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "5fb1e9f7",
-      "needsInterop": false
-    },
-    "tjguna/loader": {
-      "src": "../../../../../node_modules/tjguna/loader/index.js",
-      "file": "tjguna_loader.js",
-      "fileHash": "49eebff9",
+      "fileHash": "abc23937",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-LHIEHPJX": {
-      "file": "chunk-LHIEHPJX.js"
+    "chunk-4JSPPPDI": {
+      "file": "chunk-4JSPPPDI.js"
     },
-    "chunk-FCWVCNZV": {
-      "file": "chunk-FCWVCNZV.js"
+    "chunk-VMDGUEXB": {
+      "file": "chunk-VMDGUEXB.js"
     },
-    "chunk-IFAHEXIL": {
-      "file": "chunk-IFAHEXIL.js"
+    "chunk-C5XEVZYJ": {
+      "file": "chunk-C5XEVZYJ.js"
     },
-    "chunk-LSIVJYOF": {
-      "file": "chunk-LSIVJYOF.js"
-    },
-    "my-component.entry-V2JE4RB3": {
-      "file": "my-component__entry-V2JE4RB3.js"
-    },
-    "tj-button.entry-D6M44YPM": {
-      "file": "tj-button__entry-D6M44YPM.js"
-    },
-    "chunk-L4KWWNBV": {
-      "file": "chunk-L4KWWNBV.js"
-    },
-    "chunk-BYTETG5J": {
-      "file": "chunk-BYTETG5J.js"
+    "chunk-VI3LERPG": {
+      "file": "chunk-VI3LERPG.js"
     }
   }
 }
